@@ -1,7 +1,7 @@
 # 🏦 Banking Customer & Operations Analytics Dashboard
 
 <p align="center">
-  <img src="Images/Banner photo.png" width="100%">
+  <img src="photo/Banner photo.png" width="100%">
 </p>
 ## 📌 Project Overview
 
@@ -82,43 +82,43 @@ Dimension Tables
 
 ## Home
 
-![Home](Images/01_Home.png)
+![Home](photo/01_Home.png)
 
 ---
 
 ## Executive Overview
 
-![Executive](Images/02_Executive_Overview.png)
+![Executive](photo/02_Executive_Overview.png)
 
 ---
 
 ## Customer Analytics
 
-![Customer](Images/03_Customer_Analytics.png)
+![Customer](photo/03_Customer_Analytics.png)
 
 ---
 
 ## Transactions Analytics
 
-![Transactions](Images/04_Transactions_Analytics.png)
+![Transactions](photo/04_Transactions_Analytics.png)
 
 ---
 
 ## Loan Portfolio
 
-![Loans](Images/05_Loan_Portfolio.png)
+![Loans](photo/05_Loan_Portfolio.png)
 
 ---
 
 ## Cards Analytics
 
-![Cards](Images/06_Cards_Analytics.png)
+![Cards](photo/06_Cards_Analytics.png)
 
 ---
 
 ## Customer Support
 
-![Support](Images/07_Customer_Support.png)
+![Support](photo/07_Customer_Support.png)
 
 ---
 
@@ -140,10 +140,9 @@ Dimension Tables
 **Mohamed Osama**
 
 LinkedIn:
-(Add your LinkedIn URL)
+(www.linkedin.com/in/mohamed-osama-9554b6269)
 
-GitHub:
-(Add your GitHub URL)
+
 
 ---
 ⭐ If you found this project useful, feel free to star the repository!
