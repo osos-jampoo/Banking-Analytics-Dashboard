@@ -1,7 +1,8 @@
 # 🏦 Banking Customer & Operations Analytics Dashboard
 
-C:\Users\HP\Desktop\Data anlysis Training\sprint2
-
+<p align="center">
+  <img src="Images/Banner photo.png" width="100%">
+</p>
 ## 📌 Project Overview
 
 This project is an end-to-end **Business Intelligence** solution developed using **Microsoft Power BI** to analyze banking operations and support executive decision-making.
