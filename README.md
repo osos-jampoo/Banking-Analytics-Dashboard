@@ -1,2 +1,148 @@
-# Banking-Analytics-Dashboard
-An end-to-end Banking Analytics Dashboard built with Power BI, featuring customer insights, transactions, loans, cards, and customer support analysis.
+# 🏦 Banking Customer & Operations Analytics Dashboard
+
+C:\Users\HP\Desktop\Data anlysis Training\sprint2
+
+## 📌 Project Overview
+
+This project is an end-to-end **Business Intelligence** solution developed using **Microsoft Power BI** to analyze banking operations and support executive decision-making.
+
+The dashboard provides interactive insights into:
+
+- Customer Behavior
+- Account Performance
+- Transaction Activities
+- Loan Portfolio
+- Card Operations
+- Customer Support Performance
+
+---
+
+# 📊 Dashboard Pages
+
+| Page | Description |
+|------|-------------|
+| 🏠 Home | Navigation & Project Overview |
+| 📊 Executive Overview | High-level business KPIs |
+| 👥 Customer Analytics | Customer behavior & segmentation |
+| 💳 Transactions Analytics | Financial transaction analysis |
+| 🏦 Loan Portfolio | Loan performance & risk |
+| 💳 Cards Analytics | Card issuance & status |
+| ☎ Customer Support | Support performance |
+
+---
+
+# 📈 Key KPIs
+
+- Total Customers
+- Active Customers
+- New Customers
+- Total Balance
+- Transaction Volume
+- Net Cash Flow
+- Total Loans
+- Loan Portfolio
+- Total Cards
+- Active Cards
+- Expired Cards
+- Resolution Rate
+
+---
+
+# 📊 Data Model
+
+This project follows a Star Schema model.
+
+Main Fact Tables
+
+- Transactions
+- Loans
+- Cards
+- Support Calls
+
+Dimension Tables
+
+- Customers
+- Accounts
+- Calendar
+
+---
+
+# 🛠 Tools & Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Microsoft Excel
+
+---
+
+# 📷 Dashboard Preview
+
+## Home
+
+![Home](Images/01_Home.png)
+
+---
+
+## Executive Overview
+
+![Executive](Images/02_Executive_Overview.png)
+
+---
+
+## Customer Analytics
+
+![Customer](Images/03_Customer_Analytics.png)
+
+---
+
+## Transactions Analytics
+
+![Transactions](Images/04_Transactions_Analytics.png)
+
+---
+
+## Loan Portfolio
+
+![Loans](Images/05_Loan_Portfolio.png)
+
+---
+
+## Cards Analytics
+
+![Cards](Images/06_Cards_Analytics.png)
+
+---
+
+## Customer Support
+
+![Support](Images/07_Customer_Support.png)
+
+---
+
+# 🎯 Skills Demonstrated
+
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX
+- Dashboard Design
+- Business Intelligence
+- KPI Design
+- Interactive Reporting
+
+---
+
+# 👨‍💻 Author
+
+**Mohamed Osama**
+
+LinkedIn:
+(Add your LinkedIn URL)
+
+GitHub:
+(Add your GitHub URL)
+
+---
+⭐ If you found this project useful, feel free to star the repository!
